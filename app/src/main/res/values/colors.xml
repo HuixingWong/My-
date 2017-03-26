@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="jungle_green">#41B18F</color>
+    <color name="shamrock">#41D6B7</color>
+    <color name="forest_green">#199522</color>
+    <color name="crayon_blue">#0F6BFD</color>
+    <color name="geraldine">#EB7E70</color>
+    <color name="curious_blue">#1D92DC</color>
+    <color name="pink_pearl">#DCADCA</color>
+    <color name="light_sky_blue">#7ED6FD</color>
+    <color name="white">#FFFFFF</color>
+</resources>

@@ -1,0 +1,7 @@
+#Sun Jan 22 16:54:41 CST 2017
+base.0=/Users/huixing/Desktop/android/My知乎日报/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a207c16104b391b45a42e0091fbb18849ae4552d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/huixing/Desktop/android/My知乎日报/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_09d3196f379b449c69e7ee321ca7c96ab70d9d48/classes.dex
+base.1=/Users/huixing/Desktop/android/My知乎日报/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_09d3196f379b449c69e7ee321ca7c96ab70d9d48
+file.0=/Users/huixing/Desktop/android/My知乎日报/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a207c16104b391b45a42e0091fbb18849ae4552d/classes.dex
